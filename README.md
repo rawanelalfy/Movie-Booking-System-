@@ -10,6 +10,4 @@ This is a simple **C program** that simulates a movie ticket booking system thro
 
 ## Code
 Compile the code using a C compiler:
-   gcc "final final code.c" -o movie_booking
-   ./movie_booking
-
+   "final final code.c" 
